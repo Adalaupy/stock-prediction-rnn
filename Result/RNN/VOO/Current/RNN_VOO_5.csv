@@ -1,2 +1,0 @@
-id,Horizon,Data_Length,Layer,Train_Fraction,Seq_Len,mae_aggr,mae_indi,RefName
-5,8,100,2,0.6,14,11.335939065004007,11.501485824584961,Current/RNN_VOO_H8
